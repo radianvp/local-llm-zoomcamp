@@ -1,0 +1,40 @@
+# Entornos virtuales
+venv/
+.env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Config de entorno
+.env
+*.env
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Salidas de logs y compilaciones
+*.log
+*.out
+*.tmp
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Archivos generados
+dist/
+build/
+*.egg-info/
+
+# vector storage
+qdrant_storage/
