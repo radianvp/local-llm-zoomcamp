@@ -20,13 +20,13 @@ Learn about Vector Data bases aand how its works
 
 ```mermaid
 flowchart TD
-    A([📨 User Question]) --> B([🔎 Embed Query])
-    B --> C([📁 Vector Search (Qdrant)])
-    C --> D([📄 Retrieve Top-K Docs])
-    D --> E([🧠 Add Context to Prompt])
-    E --> F([🤖 LLM (GPT-4)])
-    F --> G([✅ Return Answer])
-```
+    A(["📨 User Question"]) --> B(["🔎 Embed Query"])
+    B --> C(["📁 Vector Search (Qdrant)"])
+    C --> D(["📄 Retrieve Top-K Docs"])
+    D --> E(["🧠 Add Context to Prompt"])
+    E --> F(["🤖 LLM (GPT-4)"])
+    F --> G(["✅ Return Answer"])
+
 ---
 
 
