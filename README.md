@@ -26,8 +26,8 @@ Over 10 weeks, I'll be developing AI applications that can answer questions over
 
 | Week | Topic                            | Status       | Link / Notes                        |
 |------|----------------------------------|--------------|-------------------------------------|
-| 1    | Introduction to LLMs and RAG     | ✅ Completed | [`/01-intro/`](./01-intro/)        |
-| 2    | Vector Search                    | 🚧 In progress | [`/02-vector-search/`](./02-vector-search/)             |
+| 1    | Introduction to LLMs and RAG     | ✅ Completed | [`/01-intro/homework.ipynb`](./01-intro/homework.ipynb)        |
+| 2    | Vector Search                    | ✅ Completed | [`/02-vector-search/homework.ipynb`](./02-vector-search/homework.ipynb)             |
 | 3    | Workshop: Open-Source Data Ingestion | 🚧 In progress | [`\02-vector-search/`](./02-vector-search/)             |
 | 4    | Evaluation of QA Systems         | ⏳ Pending   |                                     |
 | 5    | Logging & Monitoring             | ⏳ Pending   |                                     |
