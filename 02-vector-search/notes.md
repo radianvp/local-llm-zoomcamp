@@ -4,6 +4,7 @@
 > 🔍 Topic: [LLMs / Vector Search / RAG / etc.]  
 > 🎯 Goal: [What was this week’s goal or assignment?]  
 Learn about Vector Data bases aand how its works
+
 ---
 
 ## ✅ Key Concepts
@@ -26,7 +27,7 @@ flowchart TD
     D --> E(["🧠 Add Context to Prompt"])
     E --> F(["🤖 LLM (GPT-4)"])
     F --> G(["✅ Return Answer"])
-
+```
 ---
 
 
