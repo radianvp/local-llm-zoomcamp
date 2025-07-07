@@ -28,8 +28,8 @@ Over 10 weeks, I'll be developing AI applications that can answer questions over
 |------|----------------------------------|--------------|-------------------------------------|
 | 1    | Introduction to LLMs and RAG     | ✅ Completed | [`/01-intro/homework.ipynb`](./01-intro/homework.ipynb)        |
 | 2    | Vector Search                    | ✅ Completed | [`/02-vector-search/homework.ipynb`](./02-vector-search/homework.ipynb)             |
-| 3    | Workshop: Open-Source Data Ingestion | ✅ Completed | [`/workshops/dlt/homework.ipynb`](./workshops/dlt/homework.ipynb)             |
-| 3    | Workshop: Open-Source Data Ingestion | ✅ Completed | [`/workshops/dlt/notes.md`](./workshops/dlt/notes.md)             |
+| 3    | Workshop: DLT Data Ingestion | ✅ Completed | [`/workshops/dlt/homework.ipynb`](./workshops/dlt/homework.ipynb)             |
+| 3    | Workshop: DLT Data Ingestion | ✅ Completed | [`/workshops/dlt/notes.md`](./workshops/dlt/notes.md)             |
 | 4    | Evaluation of QA Systems         | 🚧 In progress   |                                     |
 | 5    | Logging & Monitoring             | ⏳ Pending   |                                     |
 | 6    | Agents & Tool Use                | ⏳ Pending   |                                     |
