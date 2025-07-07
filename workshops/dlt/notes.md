@@ -1,4 +1,4 @@
-# 📝 Week [2] — [Vector Search]
+# 📝 Week [3] — [DLT Workshop]
 
 > 📅 Date: [Insert date]  
 > 🔍 Topic: [QUDRANT / DLT / Cognee / etc.]  
