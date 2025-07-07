@@ -36,5 +36,11 @@ dist/
 build/
 *.egg-info/
 
-# vector storage
+# vector storage & additional storage
 qdrant_storage/
+*.duckdb
+*.qdrant
+
+
+# incomplete task
+.code_demo2

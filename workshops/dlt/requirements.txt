@@ -1,0 +1,8 @@
+cognee
+kuzu
+dlt
+requests
+pandas
+duckdb
+dlt[qdrant]
+qdrant-client[fastembed]
